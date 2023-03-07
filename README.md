@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **angroysbussines@gmail.com**
 
-- ⚡ Fun fact **I am smart, maybe and I like reading, seriously like a lot**
+- ⚡ Fun fact **I am smart, maybe and I like reading a lot, seriously like a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
