@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **A new game**
 
-- 🤝 I’m looking for help with **Building website for me & my projects**
+- 🤝 I’m looking for help with **Nothing**
 
 - 📫 How to reach me **angroysbussines@gmail.com **(its an email that I created years ago and still haven't find anything to do with it)****
 
