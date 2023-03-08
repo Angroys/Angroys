@@ -1,17 +1,18 @@
 <h1 align="center">Howdy, I'm Angroys</h1>
+<h2 align="center">Full Stack, Software & Game Dev</h2>
 <h3 align="center">A passionate, cool, and happy programmer. One of the best programmers(in the future)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angroys&label=Profile%20views&color=0e75b6&style=flat" alt="angroys" /> </p>
 
-- 🔭 I’m currently working on **TacoSpring**
+- 🔭 I’m currently working on **TacoSpring and Web**
 
-- 🌱 I’m currently learning **Spring Boot, Java, Python, Git and many other things**
+- 🌱 I’m currently learning **Spring Boot, Java, Python, Git,JS, React & many other things**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **A new game**
 
-- 🤝 I’m looking for help with **Nothing, ty in advance**
+- 🤝 I’m looking for help with **Building website for me & my projects**
 
-- 📫 How to reach me **angroysbussines@gmail.com**
+- 📫 How to reach me **angroysbussines@gmail.com **(its an email that I created years ago and still haven't find anything to do with it)****
 
 - ⚡ Fun fact **I am smart, maybe and I like reading a lot, seriously like a lot**
 
