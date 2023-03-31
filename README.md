@@ -6,15 +6,17 @@
 
 - 🔭 I’m currently working on **TacoSpring and Web**
 
-- 🌱 I’m currently learning **Spring Boot, Java, Python, Git,JS, React & many other things**
+- 🌱 I’m currently learning **Spring Boot, Java, Python, Git, JS, React & many other things and CS50 course**
 
-- 👯 I’m looking to collaborate on **A new game**
+- 👯 I’m looking to collaborate on **friendship.**
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with **IDK**
 
 - 📫 How to reach me **angroysbussines@gmail.com **(its an email that I created years ago and still haven't find anything to do with it)****
 
 - ⚡ Fun fact **I am smart, maybe and I like reading a lot, seriously like a lot**
+
+- 📚 Here you can find the books that I read/I would like to read/I am currently reading **https://github.com/Angroys/PyProjects/tree/main/WritingInExcel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
