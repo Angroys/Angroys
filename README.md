@@ -1,14 +1,14 @@
 <h1 align="center">Howdy, I'm Angroys</h1>
 <h2 align="center">Full Stack, Software & Game Dev</h2>
-<h3 align="center">A passionate, cool, and happy programmer. One of the best programmers(in the future)</h3>
+<h3 align="center">A passionate, cool, and happy programmer. One of the best programmers(in the future), the future does not exist, but lets forget that while reading this paragraph.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angroys&label=Profile%20views&color=0e75b6&style=flat" alt="angroys" /> </p>
 
-- 🔭 I’m currently working on **TacoSpring and Web**
+- 🔭 I’m currently working on **CS50, PyProjects and Web**
 
-- 🌱 I’m currently learning **Spring Boot, Java, Python, Git, JS, React & many other things and CS50 course**
+- 🌱 I’m currently learning **C, Python, Git, JS, HTML and Harvard CS50 course**
 
-- 👯 I’m looking to collaborate on **friendship.**
+- 👯 I’m looking to collaborate on **a better world.**
 
 - 🤝 I’m looking for help with **IDK**
 
