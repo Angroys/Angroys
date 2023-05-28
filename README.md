@@ -2,7 +2,6 @@
 <h2 align="center">Full Stack, Software & Game Dev</h2>
 <h3 align="center">A passionate, cool, and happy programmer. One of the best programmers(in the future), the future does not exist, but lets forget that while reading this paragraph.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angroys&label=Profile%20views&color=0e75b6&style=flat" alt="angroys" /> </p>
 
 - 🔭 I’m currently working on **CS50, PyProjects and Web**
 
