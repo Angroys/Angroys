@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CS50, PyProjects and Web**
 
-- 🌱 I’m currently learning **C, Python, Git, JS, HTML and Harvard CS50 course**
+- 🌱 I’m currently learning **C, Python, Git, JS, HTML.**
 
 - 👯 I’m looking to collaborate on **a better world.**
 
