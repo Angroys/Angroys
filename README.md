@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am smart, maybe and I like reading a lot, seriously like a lot**
 
-- 📚 Here you can find the books that I read/I would like to read/I am currently reading **https://github.com/Angroys/PyProjects/tree/main/WritingInExcel**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
