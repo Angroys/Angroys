@@ -1,11 +1,15 @@
 <h1 align="center">Howdy, I'm Angroys</h1>
-<h2 align="center">Full Stack, Software & Game Dev</h2>
+<h2 align="center">Programmer xD</h2>
 <h3 align="center">A passionate, cool, and happy programmer. One of the best programmers(in the future), the future does not exist, but lets forget that while reading this paragraph.</h3>
 
 
-- 🔭 I’m currently working on **CS50, PyProjects and Web**
+- 🔭 I’m currently working on **Mobiele development and PyProjects**
 
 - 🌱 I’m currently learning **C, Python, Git, JS, HTML.**
+
+- 🐱‍💻Intermediate level Programming Languages **Python and Java**
+
+- 🧑‍💻 Begginer level Programming Languages or have tried once  **C, C++, Kotlin, SQL and HTML** 
 
 - 👯 I’m looking to collaborate on **a better world.**
 
